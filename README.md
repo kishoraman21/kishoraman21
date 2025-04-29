@@ -44,8 +44,8 @@ I build user-centric web and mobile experiences using modern tools and framework
 <h2>📊 GitHub Stats <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5jZGk1bXZhOXd5dXEzZ2RudGVnYXBwYW9lMDE1ZXJuNmNxbnhteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" width="48px"></h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-soni&rank_icon=percentile&show_icons=true&theme=algolia&show=reviews&border_radius=8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-soni&theme=algolia&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishoraman21&rank_icon=percentile&show_icons=true&theme=codeSTACKr&show=reviews&border_radius=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoraman21&theme=codeSTACKr&layout=compact"/>
 </p>
 
 ---
