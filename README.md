@@ -31,7 +31,7 @@ I build user-centric web and mobile experiences using modern tools and framework
 - 💻 Frontend: React, Next.js, JavaScript  
 - 🔧 Backend: Node.js, Express.js
 - 🛢️ Database: MongoDB, PostgreSQL  
-- 🌐 Currently exploring: AI/ML 
+- 🌐 Currently exploring: GenAI
 
 ---
 
