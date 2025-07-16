@@ -28,7 +28,7 @@ Hey! I’m Aman Kishor, a Full Stack Developer who’s passionate about building
 
 I build user-centric web and mobile experiences using modern tools and frameworks. From intuitive frontends to powerful backend systems, my goal is to deliver clean and efficient code that solves real-world problems.
 
-- 💻 Frontend: React, Next.js, JavaScript  
+- 💻 Frontend: React, Next.js, React-Native, JavaScript  
 - 🔧 Backend: Node.js, Express.js
 - 🛢️ Database: MongoDB, PostgreSQL  
 - 🌐 Currently exploring: GenAI
