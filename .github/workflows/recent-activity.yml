@@ -2,18 +2,16 @@ name: Recent Activity
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"  # every 6 hours
   workflow_dispatch:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: Readme-Workflows/recent-activity@main
+      - uses: Readme-Workflows/recent-activity@v2.3.0
         with:
-          GH_USERNAME: kishoraman21
-          CONFIG_FILE: ./.github/recent-activity.config.yml
+          COMMIT_MSG: "⚡ Update README with recent activity"
