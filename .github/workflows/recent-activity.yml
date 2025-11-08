@@ -10,9 +10,9 @@ permissions:
 
 jobs:
   update-readme:
-    name: Update README
     runs-on: ubuntu-latest
     steps:
       - uses: Readme-Workflows/recent-activity@main
         with:
-          COMMIT_MSG: "⚡ Update README with recent GitHub activity"
+          GH_USERNAME: kishoraman21
+          CONFIG_FILE: .github/recent-activity.config.yml
