@@ -37,7 +37,7 @@ I build user-centric web and mobile experiences using modern tools and framework
 
 <h2>🛠 Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0amVkZDZmdGRkc2p3ODA5dnl4ZHkzdzB4ZXBxZzduaWxxdTEzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" width="40px"></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,nodejs,expressjs,FastAPI,mongodb,typescript,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,nodejs,expressjs,fastapi,mongodb,typescript,postman)](https://skillicons.dev)
 
 ---
 
