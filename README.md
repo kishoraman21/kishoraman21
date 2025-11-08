@@ -1,37 +1,23 @@
-
-
 <!--
-**kishoraman21/kishoraman21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**kishoraman21/kishoraman21** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
-
-
-
 
 ### 👨‍💻 About Me
 
-Hey! I’m Aman Kishor, a Full Stack Developer who’s passionate about building robust web applications. While I enjoy the entire stack, I have a special interest in development and love optimizing systems for performance and scalability. I'm currently exploring the exciting world of AI/ML!
+Hey! I’m **Aman Kishor**, a Full Stack Developer passionate about creating clean, scalable, and high-impact digital products.  
+I enjoy building everything from interactive UIs to robust backend systems — and lately, I’ve been exploring the world of **AI/ML** to blend intelligence into real-world apps.
 
 ---
 
 ### 🚀 Expertise
 
-I build user-centric web and mobile experiences using modern tools and frameworks. From intuitive frontends to powerful backend systems, my goal is to deliver clean and efficient code that solves real-world problems.
+I build user-centric web and mobile experiences using modern frameworks and tools.  
+From intuitive frontends to powerful backend systems, I focus on writing clean, optimized, and maintainable code.
 
-- 💻 Frontend: React, Next.js, React-Native, JavaScript, TypeScript
-- 🔧 Backend: Node.js, Express.js,FastAPI
-- 🛢️ Database: MongoDB 
-- 🌐 Currently exploring: GenAI
+- 💻 **Frontend:** React, Next.js, React Native, JavaScript, TypeScript  
+- 🔧 **Backend:** Node.js, Express.js, FastAPI  
+- 🛢️ **Database:** MongoDB  
+- 🌐 **Currently Exploring:** GenAI, AI-powered development
 
 ---
 
@@ -50,16 +36,24 @@ I build user-centric web and mobile experiences using modern tools and framework
 
 ---
 
+## 🔥 Recent GitHub Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY_LAST_UPDATE:start-->
+<!--RECENT_ACTIVITY_LAST_UPDATE:end-->
+
+---
+
 ### 🏅 Holopin Badges
 
 [![An image of @kishoraman21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kishoraman21)](https://holopin.io/@kishoraman21)
+
 ---
 
 ### 📫 Connect with Me
 
-- LinkedIn: [amankishor](https://www.linkedin.com/in/aman-kishor-profile/)
-- Twitter: [@codewidaman](https://x.com/codewidaman)
-
-
-
+- 🌐 LinkedIn: [amankishor](https://www.linkedin.com/in/aman-kishor-profile/)  
+- 🐦 Twitter: [@codewidaman](https://x.com/codewidaman)
 
