@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   update-readme:
@@ -15,4 +16,4 @@ jobs:
       - uses: Readme-Workflows/recent-activity@main
         with:
           GH_USERNAME: kishoraman21
-          CONFIG_FILE: .github/recent-activity.config.yml
+          CONFIG_FILE: ./.github/recent-activity.config.yml
