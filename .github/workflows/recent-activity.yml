@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *"  # updates every 6 hours
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update README
@@ -12,4 +15,4 @@ jobs:
     steps:
       - uses: Readme-Workflows/recent-activity@v2
         with:
-          COMMIT_MSG: "⚡ Update README with recent activity"
+          COMMIT_MSG: "⚡ Update README with recent GitHub activity"
