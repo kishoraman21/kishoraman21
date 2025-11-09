@@ -12,4 +12,4 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: Readme-Workflows/recent-activity@v1
+      - uses: Readme-Workflows/recent-activity-profile@v1.4.0
