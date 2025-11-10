@@ -36,15 +36,7 @@ From intuitive frontends to powerful backend systems, I focus on writing clean, 
 
 ---
 
-## 🔥 Recent GitHub Activity
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY_LAST_UPDATE:start-->
-<!--RECENT_ACTIVITY_LAST_UPDATE:end-->
-
----
 
 ### 🏅 Holopin Badges
 
